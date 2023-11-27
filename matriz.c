@@ -11,7 +11,7 @@ void llenarMatriz(int matriz[FILAS_MAX][COLUMNAS_MAX], int filas, int columnas) 
     
     for (int i = 0; i < filas; i++) {
         for (int j = 0; j < columnas; j++) {
-            matriz[i][j] = rand() % 101; // Generar números aleatorios entre 0 y 100
+            matriz[i][j] = rand() % 101; 
         }
     }
 }
