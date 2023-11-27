@@ -1,2 +1,2 @@
-# Mu-oz_Matriztranspuesta
+# Muñoz_Matriztranspuesta
 Ejercicio en clase, programa en c
